@@ -1,4 +1,4 @@
-package com.auto_scan.me
+package com.shirsh.flutter_doc_scanner
 
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel

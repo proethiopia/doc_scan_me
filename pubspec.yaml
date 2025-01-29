@@ -26,7 +26,11 @@ flutter:
       platforms:
         android:
           package: com.auto_scan.me
+<<<<<<< HEAD
           pluginClass:  FlutterDocScannerPlugin
+=======
+          pluginClass: FlutterDocScannerPlugin
+>>>>>>> 334c2ff (second)
         ios:
           pluginClass: swiftscan_auto
 
